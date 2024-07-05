@@ -1,0 +1,1 @@
+Amzsys python pracical
